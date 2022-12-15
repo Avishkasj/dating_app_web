@@ -134,6 +134,10 @@ p {
   line-height: 1.5;
 }
 
+.nav-link{
+  font-size: 1rem;
+}
+
 /* Footer Section */
 
 #footer {
