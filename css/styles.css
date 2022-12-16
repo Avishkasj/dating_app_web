@@ -23,6 +23,17 @@ h2 {
   line-height: 1.3;
 }
 
+h5{
+  text-align: center;
+  margin:3% ;
+}
+
+
+.newh2{
+  font-family: "Ubuntu Condensed", sans-serif;
+  text-align: center;
+}
+
 p {
   color: #8f8f8f;
   font-size: 1.2rem;
@@ -46,8 +57,14 @@ p {
 
 /* Title image */
 .title-image {
-  width: 70%;
+  width: 75%;
   height: 100%;
+  margin-left: 25%;
+}
+
+.image2{
+  width: 35%;
+  height: 50%;
   margin-left: 25%;
 }
 
@@ -100,6 +117,10 @@ p {
 
 .carousel-item {
   padding: 1% 15%;
+}
+
+.carousel{
+  background-color:rgb(1, 84, 56);
 }
 
 #press {
