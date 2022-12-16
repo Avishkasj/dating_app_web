@@ -28,6 +28,10 @@ h5{
   margin:3% ;
 }
 
+.headings4{
+  
+}
+
 
 .newh2{
   font-family: "Ubuntu Condensed", sans-serif;
@@ -63,9 +67,17 @@ p {
 }
 
 .image2{
-  width: 35%;
-  height: 50%;
-  margin-left: 25%;
+  width: 65%;
+  height: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  
+}
+
+.ic{
+  margin-bottom: 6%;
 }
 
 /* Features Section */
@@ -120,7 +132,7 @@ p {
 }
 
 .carousel{
-  background-color:rgb(1, 84, 56);
+  background-color:rgb(187, 187, 187);
 }
 
 #press {
